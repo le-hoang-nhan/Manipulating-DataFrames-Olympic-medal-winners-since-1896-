@@ -3,7 +3,7 @@ https://nbviewer.jupyter.org/github/le-hoang-nhan/Manipulating-DataFrames-Olympi
 
 See my presentation PowerPoint here: 
 Olympic medal winners
-https://studentiunitnit-my.sharepoint.com/:p:/g/personal/hoangnhan_le_studenti_unitn_it/EcAvYRLu265OpD9VNHuDmhMBVCtLCWNBIvUHcCnyrOBA-A?e=OHAqVp
+https://drive.google.com/file/d/18fvLvzVDQbK6cTOuRYo-jpExo2t5X23L/view?usp=sharing
 
 # Olympic-medal-winners-since-1896-
 Olympic medal winners: every one since 1896 as open data. Which countries have won the most Olympic medals? 
